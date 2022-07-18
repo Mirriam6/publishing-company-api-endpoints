@@ -1,15 +1,15 @@
 ## publishing-company-api-endpoints
 
--- this project is the work of slim php framework to create end points that enables users to do the following:
+###this project is the work of slim php framework to create end points that enables users to do the following:
 
--- create articles
+- create articles
 
--- publish articles
+-publish articles
 
--- editing articles
+-editing articles
 
--- retrieving current published articles
+-retrieving current published articles
 
--- retrieving current unpublished articles
+-retrieving current unpublished articles
 
--- deleting the articles
+-deleting the articles
