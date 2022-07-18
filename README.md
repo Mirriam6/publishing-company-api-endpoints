@@ -4,12 +4,12 @@
 
 - create articles
 
--publish articles
+- publish articles
 
--editing articles
+- editing articles
 
--retrieving current published articles
+- retrieving current published articles
 
--retrieving current unpublished articles
+- retrieving current unpublished articles
 
--deleting the articles
+- deleting the articles
